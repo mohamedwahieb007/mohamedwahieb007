@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
  🎯 Role: Full-Stack .NET Developer
 📍 Location: Cairo, Egypt
@@ -114,5 +114,29 @@
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
 
 </div>
+<!-- Footer Section -->
+        <footer class="footer">
+            <p class="quote">
+                💡 <em>"Clean code always looks like it was written by someone who cares."</em> - <span>Robert C. Martin</span>
+            </p>
 
----
+            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Wave" style="width: 100%; max-width: 700px; margin: 30px auto; display: block;">
+
+            <p class="thanks-message">⭐ Thanks for visiting my profile! Let's build something amazing together! 🚀</p>
+
+            <div class="footer-badges">
+                <span class="footer-badge badge-red">Made with ❤️</span>
+                <span class="footer-badge badge-green">From Egypt 🇪🇬</span>
+                <span class="footer-badge badge-purple">Powered by .NET</span>
+            </div>
+        </footer>
+
+    </div>
+
+    <script>
+        function toggleDetails(id) {
+            const element = document.getElementById(id);
+            element.classList.toggle('active');
+        }
+         </footer>
+</div>
