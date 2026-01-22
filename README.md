@@ -14,33 +14,110 @@ mohamedwahieb007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwahieb57@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201068382382)
 
-
 ---
-
- ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
+</div>
 
-I'm **Mohamed Hassan**, a passionate **Full-Stack .NET Developer** based in **Cairo, Egypt** 🇪🇬
+```yaml
+👤 name: Mohamed Hassan
+📍 location: Cairo, Egypt 🇪🇬
+💼 role: Full-Stack .NET Developer
 
-I graduated from **Fayoum University** with a **B.Sc. in Mechatronics Engineering** (GPA: 3.33/4.0), where I built a **Self-Driving Car** 🚗 as my graduation project and received an **Excellent** grade.
+🎓 education:
+  degree: B.Sc. Mechatronics Engineering
+  university: Fayoum University
+  graduation: 2023
+  gpa: 3.33/4.0 (84.5%)
+  
+🚗 graduation_project:
+  name: Self-Driving Car
+  grade: Excellent
+  
+🌐 languages:
+  - Arabic: Native Speaker
+  - English: Professional Proficiency (IELTS 7.5)
 
-My journey into software development began with a love for solving complex problems and building systems that make a real impact. I specialize in the **Microsoft .NET ecosystem**, crafting clean, scalable, and maintainable backend systems using **C#**, **ASP.NET Core**, and **Entity Framework Core**.
+💻 specialization:
+  - Backend Development with .NET
+  - Clean Architecture & SOLID Principles
+  - RESTful API Design
+  - Database Optimization
 
-I'm a firm believer in **Clean Architecture**, **SOLID principles**, and writing code that not only works but is also a pleasure to maintain. I've had the privilege of training **100+ students** in programming fundamentals, which has strengthened my ability to communicate complex technical concepts clearly.
+🏆 achievements:
+  - Selected as 1 of 30 for ITI Intensive Code Camp
+  - Built 100+ RESTful API endpoints
+  - Trained 100+ students (85% satisfaction rate)
+  - Achieved <200ms response times in production
 
-When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or diving into system design concepts. I'm currently expanding my skills in **Microservices**, **Docker**, and **Cloud Technologies**.
+🎯 currently_learning:
+  - Microservices Architecture
+  - Docker & Kubernetes
+  - Azure Cloud Services
 
-### 🎯 Quick Highlights:
-- 🔭 Currently building **KORIEK** - Automotive Service Marketplace with **100+ API endpoints**
-- 👨‍🏫 Trained **100+ students** with **85% satisfaction rate**
-- 🚀 Achieved **<200ms response times** serving **50+ concurrent users**
-- 🤖 Integrated **OpenAI GPT** for AI-powered chatbot functionality
-- 🌍 **IELTS 7.5** - Professional English Proficiency
-- 💡 Fun fact: My graduation project was a **Self-Driving Car!** 🚗
+⚡ fun_fact: "I built a Self-Driving Car as my graduation project! 🚗"
 
-<br clear="both">
+
 
 ---
+
+## Option 3: 🌟 Creative & Eye-Catching Style
+
+```markdown
+---
+
+## 🧑‍💻 About Me
+
+<div align="center">
+
+### 🚀 Turning Coffee into Code Since 2023 ☕
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who Am I?
+
+Hey there! I'm **Mohamed Hassan** 👋
+
+A **Full-Stack .NET Developer** from **Cairo, Egypt** 🇪🇬 who's obsessed with writing **clean, scalable code** and building systems that actually work!
+
+I graduated as a **Mechatronics Engineer** but found my true calling in **software development**. My graduation project? A freaking **Self-Driving Car** 🚗 — yes, I made a car drive itself!
+
+I've trained **100+ students** in programming, built **100+ API endpoints**, and somehow managed to keep my code under **200ms response time**. Not bad, right? 😎
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Facts
+
+```javascript
+const mohamed = {
+    pronouns: "he" | "him",
+    location: "Cairo, Egypt 🇪🇬",
+    education: "B.Sc. Mechatronics Engineering",
+    gpa: "3.33/4.0 (84.5%)",
+    languages: ["Arabic 🇪🇬", "English 🇬🇧"],
+    ielts: 7.5,
+    
+    code: ["C#", "TypeScript", "JavaScript", "T-SQL"],
+    technologies: {
+        backend: ["ASP.NET Core", "Entity Framework", "Web API"],
+        frontend: ["Angular", "Bootstrap", "HTML/CSS"],
+        database: ["SQL Server", "T-SQL"],
+        tools: ["Git", "Postman", "Swagger"]
+    },
+    
+    architecture: ["Clean Architecture", "CQRS", "Repository Pattern"],
+    
+    currentlyLearning: ["Microservices", "Docker", "Azure"],
+    
+    funFact: "Built a Self-Driving Car! 🚗"
+};
