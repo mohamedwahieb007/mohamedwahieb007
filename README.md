@@ -14,11 +14,66 @@ mohamedwahieb007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwahieb57@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201068382382)
 
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+---
+
+## Option 3: 🌟 Creative & Eye-Catching Style
+
+```markdown
+---
+
+## 🧑‍💻 About Me
+
+<div align="center">
+
+### 🚀 Turning Coffee into Code Since 2023 ☕
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who Am I?
+
+Hey there! I'm **Mohamed Hassan** 👋
+
+A **Full-Stack .NET Developer** from **Cairo, Egypt** 🇪🇬 who's obsessed with writing **clean, scalable code** and building systems that actually work!
+
+I graduated as a **Mechatronics Engineer** but found my true calling in **software development**. My graduation project? A freaking **Self-Driving Car** 🚗 — yes, I made a car drive itself!
+
+I've trained **100+ students** in programming, built **100+ API endpoints**, and somehow managed to keep my code under **200ms response time**. Not bad, right? 😎
+
+</td>
+<td width="50%">
+
+### ⚡ Quick Facts
+
+```javascript
+const mohamed = {
+    pronouns: "he" | "him",
+    location: "Cairo, Egypt 🇪🇬",
+    education: "B.Sc. Mechatronics Engineering",
+    gpa: "3.33/4.0 (84.5%)",
+    languages: ["Arabic 🇪🇬", "English 🇬🇧"],
+    ielts: 7.5,
+    
+    code: ["C#", "TypeScript", "JavaScript", "T-SQL"],
+    technologies: {
+        backend: ["ASP.NET Core", "Entity Framework", "Web API"],
+        frontend: ["Angular", "Bootstrap", "HTML/CSS"],
+        database: ["SQL Server", "T-SQL"],
+        tools: ["Git", "Postman", "Swagger"]
+    },
+    
+    architecture: ["Clean Architecture", "CQRS", "Repository Pattern"],
+    
+    currentlyLearning: ["Microservices", "Docker", "Azure"],
+    
+    funFact: "Built a Self-Driving Car! 🚗"
+};
 
 ---
 
