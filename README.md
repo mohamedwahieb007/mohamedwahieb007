@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="www.linkedin.com/in/mohamed-hassan0077](https://www.linkedin.com/in/mohamed-hassan0077/)">
+<a href="www.linkedin.com/in/mohamed-hassan0077">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/mohamedwahieb007">
