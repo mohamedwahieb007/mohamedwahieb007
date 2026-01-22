@@ -8,8 +8,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](www.linkedin.com/in/mohamed-hassan0077)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/
+mohamedwahieb007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwahieb57@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201068382382)
 
@@ -21,32 +22,13 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Mohamed Hassan
-location: Cairo, Egypt
-role: Full-Stack .NET Developer
-education: B.Sc. Mechatronics Engineering | Fayoum University
-graduation_project: Self-Driving Car 🚗 (Excellent Grade)
-languages: Arabic (Native) | English (IELTS 7.5)
-
-🔹 What I Do:
-🔭 Currently building KORIEK - Automotive Service Marketplace
-👨‍🏫 Trained 100+ students in programming fundamentals
-🎯 Passionate about Clean Architecture & SOLID Principles
-🚀 Delivered platforms with 100+ API endpoints
-⚡ Achieved <200ms response times in production
-🔹 Currently Learning:
-🐳 Docker & Kubernetes
-☁️ Azure Cloud Services
-🏗️ Microservices Architecture
 🛠️ Tech Stack
 💻 Backend Development
 C#
 .NET
 ASP.NET Core
 Entity Framework
+Web API
 LINQ
 Dapper
 
@@ -69,6 +51,8 @@ Repository Pattern
 Mediator Pattern
 SOLID
 N-Tier
+OOP
+Design Patterns
 
 🔌 Integrations & APIs
 SignalR
@@ -84,6 +68,7 @@ ASP.NET Identity
 🔧 Tools & DevOps
 Git
 GitHub
+GitFlow
 Visual Studio
 VS Code
 Postman
@@ -92,20 +77,7 @@ Postman
 xUnit
 Unit Testing
 
-🚀 Featured Projects
-🚗 KORIEK - Automotive Service Marketplace
-Live Demo
-Frontend
-Backend
+📋 Methodologies
+Agile
+Scrum
 
-🔹 Full-stack marketplace connecting car owners with verified workshops for service discovery, real-time booking, and secure payments.
-
-Feature	Description
-📡 100+ RESTful Endpoints	Account, Booking, Payment, Workshop, AI Chat, Car, Reviews, Notifications
-🗄️ 30+ Database Tables	Normalized design with <200ms response times
-🔔 Real-time Notifications	SignalR integration for instant updates
-💳 Payment Processing	Stripe/Paymob integration
-🤖 AI Chatbot	OpenAI GPT for customer assistance
-🔐 Security	JWT Authentication, HTTPS enforcement
-✅ Testing	Unit Testing with xUnit
-Tech Stack: ASP.NET Core 9 Angular SQL Server Clean Architecture CQRS SignalR Stripe
