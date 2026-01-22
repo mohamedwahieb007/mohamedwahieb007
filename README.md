@@ -6,10 +6,10 @@
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="www.linkedin.com/in/mohamed-hassan0077">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/mohamedwahieb007">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:mohamedwahieb57@gmail.com">
@@ -19,28 +19,19 @@
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+### 🧑‍💻 About me
+<div align="center">
+<table>
+<tr><td>
+<b>🎯</b> Full-Stack .NET Developer<br>
+<b>📍</b> Cairo, Egypt | <b>🎓</b> B.Sc. Mechatronics Engineering<br>
+  <b>🚗</b> Grad Project | Self-Driving Car <br>
+   <b>🌍</b> Arabic (Native) | English (Professional Working Proficiency)
+</td></tr>
+</table>
 </div>
+ 
 
----
-
-## 🧑‍💻 About Me
-
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
- 🎯 Role: Full-Stack .NET Developer
-📍 Location: Cairo, Egypt
-🎓 Education: B.Sc. Mechatronics Engineering
-🏫 University: Fayoum University (2018-2023)
-📊 GPA: 3.33/4.0 (84.5%)
-🚗 Grad Project: Self-Driving Car (Excellent Grade)
-🌍 Languages: Arabic (Native) | English (IELTS 7.5)
-
-
----
 
 ## 🛠️ Tech Stack
 
@@ -113,30 +104,35 @@
 <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" alt="Agile"/>
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
 
-</div>
-<!-- Footer Section -->
-        <footer class="footer">
-            <p class="quote">
+ 
+ ---
+
+<div align="center">
+
+
+ <p class="quote">
                 💡 <em>"Clean code always looks like it was written by someone who cares."</em> - <span>Robert C. Martin</span>
-            </p>
+</p>
 
-            <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Wave" style="width: 100%; max-width: 700px; margin: 30px auto; display: block;">
+ 
 
-            <p class="thanks-message">⭐ Thanks for visiting my profile! Let's build something amazing together! 🚀</p>
 
-            <div class="footer-badges">
-                <span class="footer-badge badge-red">Made with ❤️</span>
-                <span class="footer-badge badge-green">From Egypt 🇪🇬</span>
-                <span class="footer-badge badge-purple">Powered by .NET</span>
-            </div>
-        </footer>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Wave"/>
 
-    </div>
+<br>
 
-    <script>
-        function toggleDetails(id) {
-            const element = document.getElementById(id);
-            element.classList.toggle('active');
-        }
-         </footer>
+### ⭐ Thanks for visiting! Let's build something amazing together! 🚀
+
+<br>
+
+<img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+<img src="https://img.shields.io/badge/From-Egypt_🇪🇬-green?style=for-the-badge" alt="Egypt"/>
+<img src="https://img.shields.io/badge/Powered_by-.NET-512BD4?style=for-the-badge&logo=dotnet" alt=".NET"/>
+
+ 
+
+**If you like my work, consider giving a ⭐ to my repositories!**
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
