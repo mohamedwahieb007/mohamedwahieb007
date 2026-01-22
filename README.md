@@ -16,108 +16,55 @@ mohamedwahieb007)
 
 ---
 
-## 🧑‍💻 About Me
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
-</div>
-
-```yaml
-👤 name: Mohamed Hassan
-📍 location: Cairo, Egypt 🇪🇬
-💼 role: Full-Stack .NET Developer
-
-🎓 education:
-  degree: B.Sc. Mechatronics Engineering
-  university: Fayoum University
-  graduation: 2023
-  gpa: 3.33/4.0 (84.5%)
-  
-🚗 graduation_project:
-  name: Self-Driving Car
-  grade: Excellent
-  
-🌐 languages:
-  - Arabic: Native Speaker
-  - English: Professional Proficiency (IELTS 7.5)
-
-💻 specialization:
-  - Backend Development with .NET
-  - Clean Architecture & SOLID Principles
-  - RESTful API Design
-  - Database Optimization
-
-🏆 achievements:
-  - Selected as 1 of 30 for ITI Intensive Code Camp
-  - Built 100+ RESTful API endpoints
-  - Trained 100+ students (85% satisfaction rate)
-  - Achieved <200ms response times in production
-
-🎯 currently_learning:
-  - Microservices Architecture
-  - Docker & Kubernetes
-  - Azure Cloud Services
-
-⚡ fun_fact: "I built a Self-Driving Car as my graduation project! 🚗"
-
-
-
+ 
 ---
 
-## Option 3: 🌟 Creative & Eye-Catching Style
+## Option 4: 🎨 Minimal & Modern Style
 
 ```markdown
 ---
 
 ## 🧑‍💻 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 Turning Coffee into Code Since 2023 ☕
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Who Am I?
-
-Hey there! I'm **Mohamed Hassan** 👋
-
-A **Full-Stack .NET Developer** from **Cairo, Egypt** 🇪🇬 who's obsessed with writing **clean, scalable code** and building systems that actually work!
-
-I graduated as a **Mechatronics Engineer** but found my true calling in **software development**. My graduation project? A freaking **Self-Driving Car** 🚗 — yes, I made a car drive itself!
-
-I've trained **100+ students** in programming, built **100+ API endpoints**, and somehow managed to keep my code under **200ms response time**. Not bad, right? 😎
-
-</td>
-<td width="50%">
-
-### ⚡ Quick Facts
-
-```javascript
-const mohamed = {
-    pronouns: "he" | "him",
-    location: "Cairo, Egypt 🇪🇬",
-    education: "B.Sc. Mechatronics Engineering",
-    gpa: "3.33/4.0 (84.5%)",
-    languages: ["Arabic 🇪🇬", "English 🇬🇧"],
-    ielts: 7.5,
+```csharp
+public class MohamedHassan : IDeveloper
+{
+    public string Name => "Mohamed Hassan";
+    public string Location => "Cairo, Egypt 🇪🇬";
+    public string Role => "Full-Stack .NET Developer";
     
-    code: ["C#", "TypeScript", "JavaScript", "T-SQL"],
-    technologies: {
-        backend: ["ASP.NET Core", "Entity Framework", "Web API"],
-        frontend: ["Angular", "Bootstrap", "HTML/CSS"],
-        database: ["SQL Server", "T-SQL"],
-        tools: ["Git", "Postman", "Swagger"]
-    },
+    public Education Education => new()
+    {
+        Degree = "B.Sc. Mechatronics Engineering",
+        University = "Fayoum University",
+        GPA = "3.33/4.0 (84.5%)",
+        GraduationProject = "Self-Driving Car 🚗"
+    };
     
-    architecture: ["Clean Architecture", "CQRS", "Repository Pattern"],
+    public string[] Languages => new[] 
+    { 
+        "Arabic (Native)", 
+        "English (IELTS 7.5)" 
+    };
     
-    currentlyLearning: ["Microservices", "Docker", "Azure"],
+    public string[] Expertise => new[]
+    {
+        "Clean Architecture",
+        "RESTful API Design", 
+        "Database Optimization",
+        "SOLID Principles"
+    };
     
-    funFact: "Built a Self-Driving Car! 🚗"
-};
+    public string[] CurrentlyLearning => new[]
+    {
+        "Microservices",
+        "Docker & Kubernetes",
+        "Azure Cloud"
+    };
+    
+    public string FunFact => 
+        "I built a Self-Driving Car! 🚗";
+}
+ 
